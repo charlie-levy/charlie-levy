@@ -16,14 +16,13 @@ CS @ Boston University • Systems • Databases • Algorithms • Full Stack
 ---
 
 ### 🚀 Featured Projects
-**📌 DBMS Storage Engine (Java)**  
-Designed a logical-to-physical mapping layer, record encoding, and indexing structures (B+ Trees, Hash Tables, Fixed-Length Records).  
-
-**📌 Penn Station Urban Impact Research**  
-Analyzed displacement, gentrification, and infrastructure sustainability using urban systems modeling.  
-
-**📌 Linked List & Sorting Visualizer**  
-Interactive tool for mergesort, quicksort, recursion tracing, and pointer operations.
+**📌 Taste BU-DS (Web App)**  
+A web app that takes in the BU Dining menu and filters meals based on dietary restrictions and allergies.  
+- **Problem solved:** Helped students easily find meals across all three main dining halls, especially those with dietary restrictions, since the original BU Dining site was slow and unintuitive.  
+- **How it works:** Users input dietary restrictions and allergies, and the app provides all available meal options by scraping live menu data from the BU Dining website using Playwright.  
+- **Tech used:** React (frontend), Flask (backend), Python, Playwright (web scraping).  
+- **Accomplishments:** Completed a fully functional project in a hackathon, gaining first experience in web scraping, backend API creation, and full-stack web development.  
+- **Next steps:** Upgrade the project to take in live data from the BU Dining webpage for real-time meal options.
 
 ---
 
