@@ -1,4 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=You%20Found%20Me!&fontSize=90" />
 <a href="https://www.linkedin.com/in/charlessamsonlevy">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://github.com/charlie-levy/charlie-levy/blob/main/assets/linkedin_794388.png?raw=true"/>
 </a>
