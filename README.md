@@ -39,7 +39,7 @@ Interactive tool for mergesort, quicksort, recursion tracing, and pointer operat
   </a>
 </p>
 
-📫 **Email:** charlie@example.com  
+📫 **Email:** clevy531@bu.edu  
 📄 **Resume:** [View Resume](#)
 
 ---
