@@ -2,5 +2,5 @@
 <a href="https://www.linkedin.com/in/charlessamsonlevy">
   <img height="50" src="https://raw.githubusercontent.com/charlie-levy/charlie-levy/main/assets/linkedin_794388.png"/>
 </a>
-### 👋 Hi, I'm Charlie  
-CS @ Boston University • Systems • Databases • Algorithms • Full Stack
+**### 👋 Hi, I'm Charlie  
+**CS @ Boston University • Systems • Databases • Algorithms • Full Stack
