@@ -40,6 +40,6 @@ Interactive tool for mergesort, quicksort, recursion tracing, and pointer operat
 </p>
 
 📫 **Email:** clevy531@bu.edu  
-📄 **Resume:** [View Resume](#)
+📄 **Resume:** [View Resume](https://github.com/charlie-levy/charlie-levy/blob/main/assets/CSL-Resume.pdf?raw=true)
 
 ---
