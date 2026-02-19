@@ -10,7 +10,7 @@ CS @ Boston University • Systems • Databases • Algorithms • Full Stack
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,c,js,sql,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,c,js,mysql,git&theme=dark" />
 </p>
 
 ---
