@@ -4,3 +4,7 @@
 </a>
 **### 👋 Hi, I'm Charlie  
 **CS @ Boston University • Systems • Databases • Algorithms • Full Stack
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,node,sql,mysql,git,linux&theme=dark" />
+</p>
