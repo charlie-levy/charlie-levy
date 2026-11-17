@@ -26,7 +26,6 @@ I'm a Computer Science student at Boston University interested in machine learni
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
-![Flask](https://skillicons.dev/icons?i=flask)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
@@ -81,13 +80,6 @@ A web application that helps BU students find dining hall meals based on dietary
 - Grade assignments and answer student questions.
 - Support students in developing programming and problem-solving skills.
 
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlie-levy&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-levy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
