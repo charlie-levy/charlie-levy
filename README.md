@@ -10,7 +10,7 @@ CS @ Boston University • Computer Vision • Machine Learning • Full Stack D
 
 I'm a Computer Science student at Boston University interested in machine learning, computer vision, software engineering, and building things that solve real-world problems.
 
-- 🎓 Computer Science @ Boston University (Class of 2028)
+- 🎓 Computer Science @ Boston University (Class of 2027)
 - 🔬 Computer Vision Research @ UCF Center for Research in Computer Vision
 - 👨‍🏫 CS111 Course Assistant @ Boston University
 - 💻 Interested in machine learning, systems, and full-stack development
