@@ -85,7 +85,7 @@ A web application that helps BU students find dining hall meals based on dietary
 
 ### Let's Connect
 
-([![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)])](https://www.linkedin.com/in/charlie-levy/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/charlie-levy)
 
 📧 **Email:** [clevy531@bu.edu](mailto:clevy531@bu.edu)
 
