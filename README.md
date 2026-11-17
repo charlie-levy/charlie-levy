@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charlie!
 
-\<img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=You%20Found%20Me!&fontSize=75](https://capsule-render.vercel.app/api?type=wave\&color=auto\&height=250\&section=header\&text=You%20Found%20Me!\&fontSize=75)" />
+\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:4169e1&height=220&section=header&text=You%20Found%20Me!&fontSize=65&fontColor=ffffff](https://capsule-render.vercel.app/api?type=waving\&color=0:1e3a5f,100:4169e1\&height=220\&section=header\&text=You%20Found%20Me!\&fontSize=65\&fontColor=ffffff)" /> \</p>
 
 CS @ Boston University • Computer Vision • Machine Learning • Full Stack Development
 
@@ -10,44 +10,44 @@ CS @ Boston University • Computer Vision • Machine Learning • Full Stack D
 
 I'm a Computer Science student at Boston University interested in machine learning, computer vision, software engineering, and building things that solve real-world problems.
 
-- 🎓 Studying Computer Science at Boston University (Class of 2028)
-- 🔬 Former Computer Vision Researcher at UCF's Center for Research in Computer Vision (CRCV)
-- 👨‍🏫 CS111 Course Assistant at Boston University
-- 💻 Building projects across machine learning, web development, and systems
+- 🎓 Computer Science @ Boston University (Class of 2028)
+- 🔬 Computer Vision Researcher @ UCF Center for Research in Computer Vision (Summer 2026)
+- 👨‍🏫 CS111 Course Assistant @ Boston University
+- 💻 Interested in machine learning, systems, and full-stack development
 
 ---
 
 ### Tech Stack
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=java,python,c,html,css,js,react,flask,mysql,git,github&theme=dark](https://skillicons.dev/icons?i=java,python,c,html,css,js,react,flask,mysql,git,github\&theme=dark)" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://skillicons.dev/icons?i=java,python,c,html,css,js,react,flask,mysql,git,github&theme=dark](https://skillicons.dev/icons?i=java,python,c,html,css,js,react,flask,mysql,git,github\&theme=dark)" />
+\</p>
 
 ---
 
 ### Featured Projects
 
-**1. Evaluating Robustness of MLLM Safety Alignment under Image Corruptions**
-*UCF Center for Research in Computer Vision (CRCV) | Summer 2026*
+**Evaluating Robustness of MLLM Safety Alignment under Image Corruptions**
+*UCF Center for Research in Computer Vision | Summer 2026*
 
-Research project investigating how image corruptions affect the safety alignment of multimodal large language models (MLLMs).
+Research investigating how image corruptions affect the safety alignment of multimodal large language models.
 
-- **Research focus:** Evaluated whether visual corruptions can weaken the safety behavior of vision-language models.
-- **Models:** Compared LLaVA-CoT against a safety-tuned LoRA approach (TIS).
-- **Evaluation:** Used Llama-Guard-3 as a safety judge and evaluated across SIUO, FigStep, BeaverTails-V, and HoliSafe.
-- **Experiments:** Investigated ImageNet-C image corruptions, including zoom blur, and their effects on model safety.
-- **Research outcome:** Contributed to research targeting a WACV 2027 submission.
+- Compared LLaVA-CoT with a safety-tuned LoRA approach (TIS).
+- Evaluated model safety using Llama-Guard-3 across SIUO, FigStep, BeaverTails-V, and HoliSafe.
+- Investigated ImageNet-C corruptions, including zoom blur, and their effects on model safety.
+- Contributed to research targeting a WACV 2027 submission.
 
-**Technologies:** Python, Multimodal LLMs, LoRA, Computer Vision, Machine Learning.
+**Technologies:** Python, PyTorch, Multimodal LLMs, LoRA, Computer Vision.
 
-**2. Taste BU-DS (Full-Stack Web App)**
-*DS + X Hackathon | 2nd Place, FirstHack 2025*
+**Taste BU-DS | Full-Stack Web App**
+*2nd Place, FirstHack 2025 | DS + X Hackathon*
 
-A web application that helps Boston University students find dining hall meals based on dietary restrictions and food allergies.
+A web application that helps BU students find dining hall meals based on dietary restrictions and food allergies.
 
-- **Problem:** BU Dining's original website made it difficult to quickly find meals that accommodate specific dietary needs.
-- **Solution:** Built a filtering experience covering all three main BU dining halls.
-- **Frontend:** Developed the React interface, dietary filters, navigation, and branding.
-- **Backend:** Connected the frontend to a Flask API and integrated Playwright-based web scraping to retrieve dining menu data.
-- **Achievement:** Won 2nd place at FirstHack 2025, sponsored by Figma.
+- Built a filtering experience covering all three main BU dining halls.
+- Developed the React frontend, including dietary filters, navigation, and branding.
+- Connected the frontend to a Flask backend API.
+- Used Playwright to scrape BU Dining menu data.
 
 **Technologies:** React, Python, Flask, Playwright, HTML, CSS.
 
@@ -58,39 +58,44 @@ A web application that helps Boston University students find dining hall meals b
 **CS111 Course Assistant | Boston University**
 *September 2026 – Present*
 
-- Support students learning foundational computer science concepts.
-- Host office hours, grade assignments, and answer student questions.
-- Help students develop problem-solving and programming skills.
+- Host office hours and help students understand foundational computer science concepts.
+- Grade assignments and answer student questions.
 
 **Server | Taco Azul**
 *September 2025 – Present*
 
-- Manage tables, take orders, and provide customer service in a fast-paced restaurant environment.
-- Handle POS transactions and coordinate with team members.
+- Manage tables, process orders and POS transactions, and provide customer service.
 
 **Camp Counselor | Camp Galil**
 *June 2023 – Present*
 
 - Supervise campers and coordinate daily activities.
-- Collaborate with fellow counselors to maintain a safe and engaging environment.
+- Collaborate with fellow counselors to create a safe and engaging environment.
 
 ---
 
 ### GitHub Stats
 
 \<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=charlie-levy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=charlie-levy\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" height="165" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-levy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-levy\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" height="165" />
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=charlie-levy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=charlie-levy\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-levy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=charlie-levy\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" />
 \</p>
 
 ---
 
 ### Let's Connect
 
-\<p align="center">   \<a href="[https://www.linkedin.com/in/charlessamsonlevy](https://www.linkedin.com/in/charlessamsonlevy)">     \<img height="45" src="[https://raw.githubusercontent.com/charlie-levy/charlie-levy/main/assets/linkedin_794388.png](https://raw.githubusercontent.com/charlie-levy/charlie-levy/main/assets/linkedin_794388.png)" />   \</a> \</p>
+\<p align="center">
+&#x20; \<a href="[https://www.linkedin.com/in/charlessamsonlevy](https://www.linkedin.com/in/charlessamsonlevy)">
+&#x20;   \<img height="45" src="[https://raw.githubusercontent.com/charlie-levy/charlie-levy/main/assets/linkedin_794388.png](https://raw.githubusercontent.com/charlie-levy/charlie-levy/main/assets/linkedin_794388.png)" />
+&#x20; \</a>
+\</p>
 
-**Email:** [clevy531@bu.edu](mailto\:clevy531@bu.edu)
-**Resume:** [View Resume](https://github.com/charlie-levy/charlie-levy/blob/main/assets/CSL-Resume.pdf?raw=true)
+\<p align="center">
+&#x20; 📧 \<a href="mailto\:clevy531\@bu.edu">clevy531\@bu.edu\</a>
+&#x20; &nbsp; • &nbsp;
+&#x20; 📄 \<a href="[https://github.com/charlie-levy/charlie-levy/blob/main/assets/CSL-Resume.pdf](https://github.com/charlie-levy/charlie-levy/blob/main/assets/CSL-Resume.pdf)">Resume\</a>
+\</p>
 
 ---
 
