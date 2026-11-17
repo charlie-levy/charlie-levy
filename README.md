@@ -93,10 +93,10 @@ A web application that helps BU students find dining hall meals based on dietary
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charlessamsonlevy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charlie-levy/)
 
 📧 **Email:** [clevy531@bu.edu](mailto:clevy531@bu.edu)
 
-📄 **Resume:** [View Resume](https://github.com/charlie-levy/charlie-levy/blob/main/assets/CSL-Resume.pdf)
+📄 **Resume:** [View Resume](https://github.com/charlie-levy/charlie-levy/blob/main/assets/Charles_S_Levy.pdf)
 
 ---
